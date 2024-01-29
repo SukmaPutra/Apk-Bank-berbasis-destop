@@ -1,0 +1,136 @@
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe.config
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\Guna.UI.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.AssemblyReference.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.SuggestedBindingRedirects.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_menuutama.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.Properties.Resources.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.GenerateResource.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CoreCompileInputs.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CopyComplete
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_login.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe.config
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.AssemblyReference.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.SuggestedBindingRedirects.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_login.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_menuutama.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTransfer.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_transfer.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.Properties.Resources.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.GenerateResource.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CoreCompileInputs.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CopyComplete
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.Fr_Daftar.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTarik.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_tariktunai.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_Landingpage.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\LASTTYOKK\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_catatanKeuangan.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.exe
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.pdb
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe.config
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.exe
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\DesainUI Application.pdb
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_catatanKeuangan.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.Fr_Daftar.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_Landingpage.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_login.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_menuutama.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTarik.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTransfer.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_tariktunai.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.fr_transfer.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI_Application.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DesainUI Application (3)\DesainUI Application\DesainUI Application\obj\Debug\DesainUI Application.csproj.CopyComplete
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.exe.config
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.exe
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.pdb
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\EntityFramework.dll
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\EntityFramework.SqlServer.dll
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.dll
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.EF6.dll
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.Linq.dll
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\EntityFramework.xml
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\EntityFramework.SqlServer.xml
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.xml
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.AssemblyReference.cache
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_catatanKeuangan.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.Fr_Daftar.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_Landingpage.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_login.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_menuutama.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTarik.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTransfer.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_tariktunai.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_transfer.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.Properties.Resources.resources
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.GenerateResource.cache
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.CoreCompileInputs.cache
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.CopyComplete
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.exe
+F:\kuliah\smt 3\pemrograman lanjut\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.AssemblyReference.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.SuggestedBindingRedirects.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.exe.config
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.exe
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\DesainUI Application.pdb
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\EntityFramework.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\EntityFramework.SqlServer.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\EntityFramework.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\EntityFramework.SqlServer.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\bin\Debug\System.Data.SQLite.xml
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_catatanKeuangan.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.Fr_Daftar.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_Landingpage.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_login.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_menuutama.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTarik.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_pinTransfer.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_tariktunai.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.fr_transfer.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.Properties.Resources.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.GenerateResource.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.CoreCompileInputs.cache
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI Application.csproj.CopyComplete
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.editakun.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.infoakun.resources
+D:\PUTRA\KULIAH\Semester 3\Pemmrog\aplikasi\aplikasi\DesainUI Application\obj\Debug\DesainUI_Application.about.resources

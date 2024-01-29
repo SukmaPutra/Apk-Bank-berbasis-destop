@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5EBE2BA6-6AE4-47BF-B5CC-9337F6B435E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DesainUI_Application</RootNamespace>
+    <AssemblyName>DesainUI Application</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\GunaUI\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.118.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.118.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseManager.cs" />
+    <Compile Include="editakun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editakun.Designer.cs">
+      <DependentUpon>editakun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_catatanKeuangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_catatanKeuangan.Designer.cs">
+      <DependentUpon>fr_catatanKeuangan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fr_Daftar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fr_Daftar.Designer.cs">
+      <DependentUpon>Fr_Daftar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_Landingpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_Landingpage.Designer.cs">
+      <DependentUpon>fr_Landingpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_login.Designer.cs">
+      <DependentUpon>fr_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_menuutama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_menuutama.Designer.cs">
+      <DependentUpon>fr_menuutama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_pinTarik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_pinTarik.Designer.cs">
+      <DependentUpon>fr_pinTarik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_pinTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_pinTransfer.Designer.cs">
+      <DependentUpon>fr_pinTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_tariktunai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_tariktunai.Designer.cs">
+      <DependentUpon>fr_tariktunai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_transfer.Designer.cs">
+      <DependentUpon>fr_transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infoakun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infoakun.Designer.cs">
+      <DependentUpon>infoakun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nasabah.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transfer.cs" />
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editakun.resx">
+      <DependentUpon>editakun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_catatanKeuangan.resx">
+      <DependentUpon>fr_catatanKeuangan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fr_Daftar.resx">
+      <DependentUpon>Fr_Daftar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_Landingpage.resx">
+      <DependentUpon>fr_Landingpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_login.resx">
+      <DependentUpon>fr_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_menuutama.resx">
+      <DependentUpon>fr_menuutama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_pinTarik.resx">
+      <DependentUpon>fr_pinTarik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_pinTransfer.resx">
+      <DependentUpon>fr_pinTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_tariktunai.resx">
+      <DependentUpon>fr_tariktunai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_transfer.resx">
+      <DependentUpon>fr_transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infoakun.resx">
+      <DependentUpon>infoakun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>
